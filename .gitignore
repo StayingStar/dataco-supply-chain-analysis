@@ -1,0 +1,8 @@
+.venv/
+data/
+exports/
+.env
+.ipynb_checkpoints/
+.DS_Store
+.~*
+*.twb
